@@ -1,5 +1,7 @@
 # Aave V2 Wallet Credit Scorer
 
+Dataset - https://drive.google.com/file/d/19ZsPaQAAKVKKXgswXRl534YoSYCqWkbw/view?usp=sharing
+
 Assigns credit scores (0–1000) to wallets based on Aave V2 transaction behavior.
 
 ## Methodology
